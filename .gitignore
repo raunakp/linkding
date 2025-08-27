@@ -191,6 +191,10 @@ typings/
 /tmp
 # Database file
 /data
+
+# Backups
+/backups
+
 # ublock + chromium
 /uBOLite.chromium.mv3
 /chromium-profile
