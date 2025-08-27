@@ -195,6 +195,9 @@ typings/
 # Backups
 /backups
 
+# Automated Backup configuration
+automate/backup_config.json
+
 # ublock + chromium
 /uBOLite.chromium.mv3
 /chromium-profile
